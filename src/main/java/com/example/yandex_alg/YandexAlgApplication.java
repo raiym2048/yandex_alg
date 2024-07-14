@@ -10,4 +10,5 @@ public class YandexAlgApplication {
         SpringApplication.run(YandexAlgApplication.class, args);
     }
 
+
 }
